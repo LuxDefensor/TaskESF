@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskESF", "TaskESF\TaskESF.csproj", "{DCA7A236-6F0C-4A32-859D-C6DBE6A38665}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Energosphere", "..\EnergoSharik\Energosphere\Energosphere.csproj", "{3E08F7CB-475A-49D5-AA07-B946D6E85817}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskDataESF", "TaskDataESF\TaskDataESF.csproj", "{30F7DEE8-F61A-4014-BC19-D3CF8FC60485}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{DCA7A236-6F0C-4A32-859D-C6DBE6A38665}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCA7A236-6F0C-4A32-859D-C6DBE6A38665}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCA7A236-6F0C-4A32-859D-C6DBE6A38665}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E08F7CB-475A-49D5-AA07-B946D6E85817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E08F7CB-475A-49D5-AA07-B946D6E85817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E08F7CB-475A-49D5-AA07-B946D6E85817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E08F7CB-475A-49D5-AA07-B946D6E85817}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30F7DEE8-F61A-4014-BC19-D3CF8FC60485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30F7DEE8-F61A-4014-BC19-D3CF8FC60485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30F7DEE8-F61A-4014-BC19-D3CF8FC60485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30F7DEE8-F61A-4014-BC19-D3CF8FC60485}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
